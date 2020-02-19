@@ -16,7 +16,7 @@ body = {
 }
 
 #Creating a post request
-r  = requests.post(url, headers = headers, json = body)
+#r  = requests.post(url, headers = headers, json = body)
 
-print(r.status_code)
-print(r.text)
+#print(r.status_code)
+#print(r.text)
